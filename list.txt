@@ -1,5 +1,3 @@
-mc.yandex.ru Issue 156
-surfshark.com Issue 161
 0second.com
 10mbit.com
 123bits.org
@@ -8603,4 +8601,5 @@ zooqle.p4y.space
 zooqle.proxyportal.pw
 zooqle.unblocked.llc
 zoozle.org
+
 ztracker.hu
